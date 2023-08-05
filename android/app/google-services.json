@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "148205325199",
+    "project_id": "ocr-scanner-6af59",
+    "storage_bucket": "ocr-scanner-6af59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148205325199:android:533d2dd54df93a0aea19fa",
+        "android_client_info": {
+          "package_name": "com.example.ocr_scanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148205325199-bl3ljic3jqga2km4u96mgg0sntosv73b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgvGiM09ZBuCz2YQ4CzCgwYdi-TGpLFYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148205325199-bl3ljic3jqga2km4u96mgg0sntosv73b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
