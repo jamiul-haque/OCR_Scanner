@@ -1,6 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
 
-    <uses-permission android:name="android.permission.CAMERA"/>
+    <uses-permission android:name="android.permission.CAMERA"></uses-permission>
+    <user-feature android:name="android.hardware.CAMERA"></user-feature>
     <application
         android:label="ocr_scanner"
         android:name="${applicationName}"
